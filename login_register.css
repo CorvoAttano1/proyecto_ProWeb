@@ -63,7 +63,7 @@ body {
 }
 
 .info-childs input:hover {
-    background-color: blanchedalmond;
+    background-color: rgb(15, 15, 15);
     border: none;
     color: white;
     box-shadow: 0 2px 5px rgba(0, 0, 0, .1);
@@ -76,7 +76,7 @@ body {
     justify-content: center;
     width: 60%;
     text-align: center;
-    background-color: burlywood;
+    background-color: #9191bd;
     border-bottom-right-radius: 20px;
     border-top-right-radius: 20px ;
 }
@@ -106,7 +106,7 @@ body {
     padding: 15px;
     cursor: pointer;
     margin: 0 10px;
-    border: solid thin #9191bd;
+    border: solid thin #fff;
     color: #9191bd;
     transition: background-color 0.3s ease;
     box-shadow: 0 2px 5px rgba(0, 0, 0, .1);
@@ -148,7 +148,7 @@ body {
 }
 
 .form input[type="submit"] {
-    background-color: #9191bd;
+    background-color: cornflowerblue;
     color: #fff;
     border-radius: 20px;
     border: none;
