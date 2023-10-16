@@ -71,7 +71,7 @@ li a.active, li a:hover{
 }
 
 section{
-    background: url(/img/fondo01.jpg) no-repeat;
+    background: url(/img/fondo03.jpg) no-repeat;
     background-size: cover;
     background-position: center center;
     height: calc(100vh - 80px);
@@ -132,7 +132,7 @@ footer{
 
 .titulo-final{
     text-align: center;
-    font-size: 24px;
+    font-size: 15px;
     margin: 20px 0 0 0;
     color: #9e9797;
 }
@@ -192,6 +192,7 @@ h2{
 
 @media screen and (max-width:900px){
     
+
     .contenedor-sobre-nosotros{
         flex-direction: column;
         justify-content: center;
@@ -210,7 +211,6 @@ h2{
 
 @media screen and (max-width:500px){
    
-
     .imagen-about-us{
         margin-bottom: 60px;
         width: 99%;
